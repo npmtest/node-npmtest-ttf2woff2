@@ -1,121 +1,121 @@
 <svg height="1886" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1886" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 18:28:34 +0000  8178273 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 18:28:34 +0000     1104 bytes  LICENCE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 18:28:34 +0000     1587 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 18:28:34 +0000      275 bytes  bin/ttf2woff2.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 18:28:34 +0000     1339 bytes  binding.gyp</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 18:28:34 +0000    12693 bytes  build/Makefile</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 18:28:34 +0000   795248 bytes  build/Release/addon.node</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 18:28:34 +0000   795248 bytes  build/Release/obj.target/addon.node</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 18:28:34 +0000     9464 bytes  build/Release/obj.target/addon/csrc/addon.o</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 18:28:34 +0000   269992 bytes  build/Release/obj.target/addon/csrc/enc/backward\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 18:31:31 +0000  8178257 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:31:31 +0000     1104 bytes  LICENCE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:31:31 +0000     1587 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:31:31 +0000      275 bytes  bin/ttf2woff2.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:31:31 +0000     1339 bytes  binding.gyp</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:31:31 +0000    12693 bytes  build/Makefile</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:31:31 +0000   795248 bytes  build/Release/addon.node</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:31:31 +0000   795248 bytes  build/Release/obj.target/addon.node</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:31:31 +0000     9464 bytes  build/Release/obj.target/addon/csrc/addon.o</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:31:31 +0000   269992 bytes  build/Release/obj.target/addon/csrc/enc/backward\</tspan>
 <tspan x="10" y="186">_references.o</tspan>
-<tspan x="10" y="202"> 10.  2017-04-20 18:28:34 +0000   102136 bytes  build/Release/obj.target/addon/csrc/enc/block_sp\</tspan>
+<tspan x="10" y="202"> 10.  2017-04-20 18:31:31 +0000   102136 bytes  build/Release/obj.target/addon/csrc/enc/block_sp\</tspan>
 <tspan x="10" y="218">litter.o</tspan>
-<tspan x="10" y="234"> 11.  2017-04-20 18:28:34 +0000    48216 bytes  build/Release/obj.target/addon/csrc/enc/brotli_b\</tspan>
+<tspan x="10" y="234"> 11.  2017-04-20 18:31:31 +0000    48216 bytes  build/Release/obj.target/addon/csrc/enc/brotli_b\</tspan>
 <tspan x="10" y="250">it_stream.o</tspan>
-<tspan x="10" y="266"> 12.  2017-04-20 18:28:34 +0000   172888 bytes  build/Release/obj.target/addon/csrc/enc/encode.o</tspan>
-<tspan x="10" y="282"> 13.  2017-04-20 18:28:34 +0000   161080 bytes  build/Release/obj.target/addon/csrc/enc/encode_p\</tspan>
+<tspan x="10" y="266"> 12.  2017-04-20 18:31:31 +0000   172888 bytes  build/Release/obj.target/addon/csrc/enc/encode.o</tspan>
+<tspan x="10" y="282"> 13.  2017-04-20 18:31:31 +0000   161080 bytes  build/Release/obj.target/addon/csrc/enc/encode_p\</tspan>
 <tspan x="10" y="298">arallel.o</tspan>
-<tspan x="10" y="314"> 14.  2017-04-20 18:28:34 +0000    29176 bytes  build/Release/obj.target/addon/csrc/enc/entropy_\</tspan>
+<tspan x="10" y="314"> 14.  2017-04-20 18:31:31 +0000    29176 bytes  build/Release/obj.target/addon/csrc/enc/entropy_\</tspan>
 <tspan x="10" y="330">encode.o</tspan>
-<tspan x="10" y="346"> 15.  2017-04-20 18:28:34 +0000     4120 bytes  build/Release/obj.target/addon/csrc/enc/histogra\</tspan>
+<tspan x="10" y="346"> 15.  2017-04-20 18:31:31 +0000     4120 bytes  build/Release/obj.target/addon/csrc/enc/histogra\</tspan>
 <tspan x="10" y="362">m.o</tspan>
-<tspan x="10" y="378"> 16.  2017-04-20 18:28:34 +0000     6256 bytes  build/Release/obj.target/addon/csrc/enc/literal_\</tspan>
+<tspan x="10" y="378"> 16.  2017-04-20 18:31:31 +0000     6256 bytes  build/Release/obj.target/addon/csrc/enc/literal_\</tspan>
 <tspan x="10" y="394">cost.o</tspan>
-<tspan x="10" y="410"> 17.  2017-04-20 18:28:34 +0000    74248 bytes  build/Release/obj.target/addon/csrc/enc/metabloc\</tspan>
+<tspan x="10" y="410"> 17.  2017-04-20 18:31:31 +0000    74248 bytes  build/Release/obj.target/addon/csrc/enc/metabloc\</tspan>
 <tspan x="10" y="426">k.o</tspan>
-<tspan x="10" y="442"> 18.  2017-04-20 18:28:34 +0000    17664 bytes  build/Release/obj.target/addon/csrc/enc/streams.\</tspan>
+<tspan x="10" y="442"> 18.  2017-04-20 18:31:31 +0000    17664 bytes  build/Release/obj.target/addon/csrc/enc/streams.\</tspan>
 <tspan x="10" y="458">o</tspan>
-<tspan x="10" y="474"> 19.  2017-04-20 18:28:34 +0000    35976 bytes  build/Release/obj.target/addon/csrc/woff2/font.o</tspan>
-<tspan x="10" y="490"> 20.  2017-04-20 18:28:34 +0000     9048 bytes  build/Release/obj.target/addon/csrc/woff2/glyph.\</tspan>
+<tspan x="10" y="474"> 19.  2017-04-20 18:31:31 +0000    35976 bytes  build/Release/obj.target/addon/csrc/woff2/font.o</tspan>
+<tspan x="10" y="490"> 20.  2017-04-20 18:31:31 +0000     9048 bytes  build/Release/obj.target/addon/csrc/woff2/glyph.\</tspan>
 <tspan x="10" y="506">o</tspan>
-<tspan x="10" y="522"> 21.  2017-04-20 18:28:34 +0000    15016 bytes  build/Release/obj.target/addon/csrc/woff2/normal\</tspan>
+<tspan x="10" y="522"> 21.  2017-04-20 18:31:31 +0000    15016 bytes  build/Release/obj.target/addon/csrc/woff2/normal\</tspan>
 <tspan x="10" y="538">ize.o</tspan>
-<tspan x="10" y="554"> 22.  2017-04-20 18:28:34 +0000     1344 bytes  build/Release/obj.target/addon/csrc/woff2/table_\</tspan>
+<tspan x="10" y="554"> 22.  2017-04-20 18:31:31 +0000     1344 bytes  build/Release/obj.target/addon/csrc/woff2/table_\</tspan>
 <tspan x="10" y="570">tags.o</tspan>
-<tspan x="10" y="586"> 23.  2017-04-20 18:28:34 +0000    18184 bytes  build/Release/obj.target/addon/csrc/woff2/transf\</tspan>
+<tspan x="10" y="586"> 23.  2017-04-20 18:31:31 +0000    18184 bytes  build/Release/obj.target/addon/csrc/woff2/transf\</tspan>
 <tspan x="10" y="602">orm.o</tspan>
-<tspan x="10" y="618"> 24.  2017-04-20 18:28:34 +0000     7496 bytes  build/Release/obj.target/addon/csrc/woff2/variab\</tspan>
+<tspan x="10" y="618"> 24.  2017-04-20 18:31:31 +0000     7496 bytes  build/Release/obj.target/addon/csrc/woff2/variab\</tspan>
 <tspan x="10" y="634">le_length.o</tspan>
-<tspan x="10" y="650"> 25.  2017-04-20 18:28:34 +0000     2032 bytes  build/Release/obj.target/addon/csrc/woff2/woff2_\</tspan>
+<tspan x="10" y="650"> 25.  2017-04-20 18:31:31 +0000     2032 bytes  build/Release/obj.target/addon/csrc/woff2/woff2_\</tspan>
 <tspan x="10" y="666">common.o</tspan>
-<tspan x="10" y="682"> 26.  2017-04-20 18:28:34 +0000    24352 bytes  build/Release/obj.target/addon/csrc/woff2/woff2_\</tspan>
+<tspan x="10" y="682"> 26.  2017-04-20 18:31:31 +0000    24352 bytes  build/Release/obj.target/addon/csrc/woff2/woff2_\</tspan>
 <tspan x="10" y="698">enc.o</tspan>
-<tspan x="10" y="714"> 27.  2017-04-20 18:28:34 +0000     4330 bytes  build/addon.target.mk</tspan>
-<tspan x="10" y="730"> 28.  2017-04-20 18:28:34 +0000      113 bytes  build/binding.Makefile</tspan>
-<tspan x="10" y="746"> 29.  2017-04-20 18:28:34 +0000     4798 bytes  build/config.gypi</tspan>
-<tspan x="10" y="762"> 30.  2017-04-20 18:28:34 +0000     1472 bytes  builderror.log</tspan>
-<tspan x="10" y="778"> 31.  2017-04-20 18:28:34 +0000     1476 bytes  csrc/addon.cc</tspan>
-<tspan x="10" y="794"> 32.  2017-04-20 18:28:34 +0000    15446 bytes  csrc/enc/backward_references.cc</tspan>
-<tspan x="10" y="810"> 33.  2017-04-20 18:28:34 +0000     1695 bytes  csrc/enc/backward_references.h</tspan>
-<tspan x="10" y="826"> 34.  2017-04-20 18:28:34 +0000     4254 bytes  csrc/enc/bit_cost.h</tspan>
-<tspan x="10" y="842"> 35.  2017-04-20 18:28:34 +0000    13542 bytes  csrc/enc/block_splitter.cc</tspan>
-<tspan x="10" y="858"> 36.  2017-04-20 18:28:34 +0000     2152 bytes  csrc/enc/block_splitter.h</tspan>
-<tspan x="10" y="874"> 37.  2017-04-20 18:28:34 +0000    29327 bytes  csrc/enc/brotli_bit_stream.cc</tspan>
-<tspan x="10" y="890"> 38.  2017-04-20 18:28:34 +0000     5358 bytes  csrc/enc/brotli_bit_stream.h</tspan>
-<tspan x="10" y="906"> 39.  2017-04-20 18:28:34 +0000    10036 bytes  csrc/enc/cluster.h</tspan>
-<tspan x="10" y="922"> 40.  2017-04-20 18:28:34 +0000     4943 bytes  csrc/enc/command.h</tspan>
-<tspan x="10" y="938"> 41.  2017-04-20 18:28:34 +0000     7657 bytes  csrc/enc/context.h</tspan>
-<tspan x="10" y="954"> 42.  2017-04-20 18:28:34 +0000   747481 bytes  csrc/enc/dictionary.h</tspan>
-<tspan x="10" y="970"> 43.  2017-04-20 18:28:34 +0000   271247 bytes  csrc/enc/dictionary_hash.h</tspan>
-<tspan x="10" y="986"> 44.  2017-04-20 18:28:34 +0000    20624 bytes  csrc/enc/encode.cc</tspan>
-<tspan x="10" y="1002"> 45.  2017-04-20 18:28:34 +0000     6741 bytes  csrc/enc/encode.h</tspan>
-<tspan x="10" y="1018"> 46.  2017-04-20 18:28:34 +0000    11528 bytes  csrc/enc/encode_parallel.cc</tspan>
-<tspan x="10" y="1034"> 47.  2017-04-20 18:28:34 +0000     1250 bytes  csrc/enc/encode_parallel.h</tspan>
-<tspan x="10" y="1050"> 48.  2017-04-20 18:28:34 +0000    13832 bytes  csrc/enc/entropy_encode.cc</tspan>
-<tspan x="10" y="1066"> 49.  2017-04-20 18:28:34 +0000     3062 bytes  csrc/enc/entropy_encode.h</tspan>
-<tspan x="10" y="1082"> 50.  2017-04-20 18:28:34 +0000     8184 bytes  csrc/enc/fast_log.h</tspan>
-<tspan x="10" y="1098"> 51.  2017-04-20 18:28:34 +0000     2758 bytes  csrc/enc/find_match_length.h</tspan>
-<tspan x="10" y="1114"> 52.  2017-04-20 18:28:34 +0000    24289 bytes  csrc/enc/hash.h</tspan>
-<tspan x="10" y="1130"> 53.  2017-04-20 18:28:34 +0000     2565 bytes  csrc/enc/histogram.cc</tspan>
-<tspan x="10" y="1146"> 54.  2017-04-20 18:28:34 +0000     3009 bytes  csrc/enc/histogram.h</tspan>
-<tspan x="10" y="1162"> 55.  2017-04-20 18:28:34 +0000     5652 bytes  csrc/enc/literal_cost.cc</tspan>
-<tspan x="10" y="1178"> 56.  2017-04-20 18:28:34 +0000     1467 bytes  csrc/enc/literal_cost.h</tspan>
-<tspan x="10" y="1194"> 57.  2017-04-20 18:28:34 +0000    12070 bytes  csrc/enc/metablock.cc</tspan>
-<tspan x="10" y="1210"> 58.  2017-04-20 18:28:34 +0000     2260 bytes  csrc/enc/metablock.h</tspan>
-<tspan x="10" y="1226"> 59.  2017-04-20 18:28:34 +0000     4231 bytes  csrc/enc/port.h</tspan>
-<tspan x="10" y="1242"> 60.  2017-04-20 18:28:34 +0000     3080 bytes  csrc/enc/prefix.h</tspan>
-<tspan x="10" y="1258"> 61.  2017-04-20 18:28:34 +0000     3578 bytes  csrc/enc/ringbuffer.h</tspan>
-<tspan x="10" y="1274"> 62.  2017-04-20 18:28:34 +0000     2640 bytes  csrc/enc/static_dict.h</tspan>
-<tspan x="10" y="1290"> 63.  2017-04-20 18:28:34 +0000     2959 bytes  csrc/enc/streams.cc</tspan>
-<tspan x="10" y="1306"> 64.  2017-04-20 18:28:34 +0000     3546 bytes  csrc/enc/streams.h</tspan>
-<tspan x="10" y="1322"> 65.  2017-04-20 18:28:34 +0000  2468344 bytes  csrc/enc/streams.h.gch</tspan>
-<tspan x="10" y="1338"> 66.  2017-04-20 18:28:34 +0000     9459 bytes  csrc/enc/transform.h</tspan>
-<tspan x="10" y="1354"> 67.  2017-04-20 18:28:34 +0000     2896 bytes  csrc/enc/write_bits.h</tspan>
-<tspan x="10" y="1370"> 68.  2017-04-20 18:28:34 +0000     1393 bytes  csrc/fallback.cc</tspan>
-<tspan x="10" y="1386"> 69.  2017-04-20 18:28:34 +0000     4632 bytes  csrc/woff2/buffer.h</tspan>
-<tspan x="10" y="1402"> 70.  2017-04-20 18:28:34 +0000    12352 bytes  csrc/woff2/font.cc</tspan>
-<tspan x="10" y="1418"> 71.  2017-04-20 18:28:34 +0000     3903 bytes  csrc/woff2/font.h</tspan>
-<tspan x="10" y="1434"> 72.  2017-04-20 18:28:34 +0000    11643 bytes  csrc/woff2/glyph.cc</tspan>
-<tspan x="10" y="1450"> 73.  2017-04-20 18:28:34 +0000     2193 bytes  csrc/woff2/glyph.h</tspan>
-<tspan x="10" y="1466"> 74.  2017-04-20 18:28:34 +0000     9319 bytes  csrc/woff2/normalize.cc</tspan>
-<tspan x="10" y="1482"> 75.  2017-04-20 18:28:34 +0000     1738 bytes  csrc/woff2/normalize.h</tspan>
-<tspan x="10" y="1498"> 76.  2017-04-20 18:28:34 +0000     1185 bytes  csrc/woff2/port.h</tspan>
-<tspan x="10" y="1514"> 77.  2017-04-20 18:28:34 +0000     1024 bytes  csrc/woff2/round.h</tspan>
-<tspan x="10" y="1530"> 78.  2017-04-20 18:28:34 +0000     1754 bytes  csrc/woff2/store_bytes.h</tspan>
-<tspan x="10" y="1546"> 79.  2017-04-20 18:28:34 +0000     2995 bytes  csrc/woff2/table_tags.cc</tspan>
-<tspan x="10" y="1562"> 80.  2017-04-20 18:28:34 +0000     1094 bytes  csrc/woff2/table_tags.h</tspan>
-<tspan x="10" y="1578"> 81.  2017-04-20 18:28:34 +0000     9653 bytes  csrc/woff2/transform.cc</tspan>
-<tspan x="10" y="1594"> 82.  2017-04-20 18:28:34 +0000     1100 bytes  csrc/woff2/transform.h</tspan>
-<tspan x="10" y="1610"> 83.  2017-04-20 18:28:34 +0000     3479 bytes  csrc/woff2/variable_length.cc</tspan>
-<tspan x="10" y="1626"> 84.  2017-04-20 18:28:34 +0000     1248 bytes  csrc/woff2/variable_length.h</tspan>
-<tspan x="10" y="1642"> 85.  2017-04-20 18:28:34 +0000     1438 bytes  csrc/woff2/woff2_common.cc</tspan>
-<tspan x="10" y="1658"> 86.  2017-04-20 18:28:34 +0000     1883 bytes  csrc/woff2/woff2_common.h</tspan>
-<tspan x="10" y="1674"> 87.  2017-04-20 18:28:34 +0000    37531 bytes  csrc/woff2/woff2_dec.cc</tspan>
-<tspan x="10" y="1690"> 88.  2017-04-20 18:28:34 +0000     1279 bytes  csrc/woff2/woff2_dec.h</tspan>
-<tspan x="10" y="1706"> 89.  2017-04-20 18:28:34 +0000    14853 bytes  csrc/woff2/woff2_enc.cc</tspan>
-<tspan x="10" y="1722"> 90.  2017-04-20 18:28:34 +0000     1683 bytes  csrc/woff2/woff2_enc.h</tspan>
-<tspan x="10" y="1738"> 91.  2017-04-20 18:28:34 +0000      868 bytes  jssrc/index.js</tspan>
-<tspan x="10" y="1754"> 92.  2017-04-20 18:28:34 +0000      312 bytes  jssrc/post.js</tspan>
-<tspan x="10" y="1770"> 93.  2017-04-20 18:28:34 +0000  1678520 bytes  jssrc/ttf2woff2.js</tspan>
-<tspan x="10" y="1786"> 94.  2017-04-20 18:28:34 +0000     2105 bytes  package.json</tspan>
-<tspan x="10" y="1802"> 95.  2017-04-20 18:28:34 +0000      149 bytes  src/index.js</tspan>
-<tspan x="10" y="1818"> 96.  2017-04-20 18:28:34 +0000      461 bytes  tests/cli.mocha.js</tspan>
-<tspan x="10" y="1834"> 97.  2017-04-20 18:28:34 +0000     2344 bytes  tests/expected/iconsfont.ttf</tspan>
-<tspan x="10" y="1850"> 98.  2017-04-20 18:28:34 +0000     1072 bytes  tests/expected/iconsfont.woff2</tspan>
-<tspan x="10" y="1866"> 99.  2017-04-20 18:28:34 +0000     1537 bytes  tests/tests.mocha.js</tspan>
+<tspan x="10" y="714"> 27.  2017-04-20 18:31:31 +0000     4330 bytes  build/addon.target.mk</tspan>
+<tspan x="10" y="730"> 28.  2017-04-20 18:31:31 +0000      113 bytes  build/binding.Makefile</tspan>
+<tspan x="10" y="746"> 29.  2017-04-20 18:31:31 +0000     4782 bytes  build/config.gypi</tspan>
+<tspan x="10" y="762"> 30.  2017-04-20 18:31:31 +0000     1472 bytes  builderror.log</tspan>
+<tspan x="10" y="778"> 31.  2017-04-20 18:31:31 +0000     1476 bytes  csrc/addon.cc</tspan>
+<tspan x="10" y="794"> 32.  2017-04-20 18:31:31 +0000    15446 bytes  csrc/enc/backward_references.cc</tspan>
+<tspan x="10" y="810"> 33.  2017-04-20 18:31:31 +0000     1695 bytes  csrc/enc/backward_references.h</tspan>
+<tspan x="10" y="826"> 34.  2017-04-20 18:31:31 +0000     4254 bytes  csrc/enc/bit_cost.h</tspan>
+<tspan x="10" y="842"> 35.  2017-04-20 18:31:31 +0000    13542 bytes  csrc/enc/block_splitter.cc</tspan>
+<tspan x="10" y="858"> 36.  2017-04-20 18:31:31 +0000     2152 bytes  csrc/enc/block_splitter.h</tspan>
+<tspan x="10" y="874"> 37.  2017-04-20 18:31:31 +0000    29327 bytes  csrc/enc/brotli_bit_stream.cc</tspan>
+<tspan x="10" y="890"> 38.  2017-04-20 18:31:31 +0000     5358 bytes  csrc/enc/brotli_bit_stream.h</tspan>
+<tspan x="10" y="906"> 39.  2017-04-20 18:31:31 +0000    10036 bytes  csrc/enc/cluster.h</tspan>
+<tspan x="10" y="922"> 40.  2017-04-20 18:31:31 +0000     4943 bytes  csrc/enc/command.h</tspan>
+<tspan x="10" y="938"> 41.  2017-04-20 18:31:31 +0000     7657 bytes  csrc/enc/context.h</tspan>
+<tspan x="10" y="954"> 42.  2017-04-20 18:31:31 +0000   747481 bytes  csrc/enc/dictionary.h</tspan>
+<tspan x="10" y="970"> 43.  2017-04-20 18:31:31 +0000   271247 bytes  csrc/enc/dictionary_hash.h</tspan>
+<tspan x="10" y="986"> 44.  2017-04-20 18:31:31 +0000    20624 bytes  csrc/enc/encode.cc</tspan>
+<tspan x="10" y="1002"> 45.  2017-04-20 18:31:31 +0000     6741 bytes  csrc/enc/encode.h</tspan>
+<tspan x="10" y="1018"> 46.  2017-04-20 18:31:31 +0000    11528 bytes  csrc/enc/encode_parallel.cc</tspan>
+<tspan x="10" y="1034"> 47.  2017-04-20 18:31:31 +0000     1250 bytes  csrc/enc/encode_parallel.h</tspan>
+<tspan x="10" y="1050"> 48.  2017-04-20 18:31:31 +0000    13832 bytes  csrc/enc/entropy_encode.cc</tspan>
+<tspan x="10" y="1066"> 49.  2017-04-20 18:31:31 +0000     3062 bytes  csrc/enc/entropy_encode.h</tspan>
+<tspan x="10" y="1082"> 50.  2017-04-20 18:31:31 +0000     8184 bytes  csrc/enc/fast_log.h</tspan>
+<tspan x="10" y="1098"> 51.  2017-04-20 18:31:31 +0000     2758 bytes  csrc/enc/find_match_length.h</tspan>
+<tspan x="10" y="1114"> 52.  2017-04-20 18:31:31 +0000    24289 bytes  csrc/enc/hash.h</tspan>
+<tspan x="10" y="1130"> 53.  2017-04-20 18:31:31 +0000     2565 bytes  csrc/enc/histogram.cc</tspan>
+<tspan x="10" y="1146"> 54.  2017-04-20 18:31:31 +0000     3009 bytes  csrc/enc/histogram.h</tspan>
+<tspan x="10" y="1162"> 55.  2017-04-20 18:31:31 +0000     5652 bytes  csrc/enc/literal_cost.cc</tspan>
+<tspan x="10" y="1178"> 56.  2017-04-20 18:31:31 +0000     1467 bytes  csrc/enc/literal_cost.h</tspan>
+<tspan x="10" y="1194"> 57.  2017-04-20 18:31:31 +0000    12070 bytes  csrc/enc/metablock.cc</tspan>
+<tspan x="10" y="1210"> 58.  2017-04-20 18:31:31 +0000     2260 bytes  csrc/enc/metablock.h</tspan>
+<tspan x="10" y="1226"> 59.  2017-04-20 18:31:31 +0000     4231 bytes  csrc/enc/port.h</tspan>
+<tspan x="10" y="1242"> 60.  2017-04-20 18:31:31 +0000     3080 bytes  csrc/enc/prefix.h</tspan>
+<tspan x="10" y="1258"> 61.  2017-04-20 18:31:31 +0000     3578 bytes  csrc/enc/ringbuffer.h</tspan>
+<tspan x="10" y="1274"> 62.  2017-04-20 18:31:31 +0000     2640 bytes  csrc/enc/static_dict.h</tspan>
+<tspan x="10" y="1290"> 63.  2017-04-20 18:31:31 +0000     2959 bytes  csrc/enc/streams.cc</tspan>
+<tspan x="10" y="1306"> 64.  2017-04-20 18:31:31 +0000     3546 bytes  csrc/enc/streams.h</tspan>
+<tspan x="10" y="1322"> 65.  2017-04-20 18:31:31 +0000  2468344 bytes  csrc/enc/streams.h.gch</tspan>
+<tspan x="10" y="1338"> 66.  2017-04-20 18:31:31 +0000     9459 bytes  csrc/enc/transform.h</tspan>
+<tspan x="10" y="1354"> 67.  2017-04-20 18:31:31 +0000     2896 bytes  csrc/enc/write_bits.h</tspan>
+<tspan x="10" y="1370"> 68.  2017-04-20 18:31:31 +0000     1393 bytes  csrc/fallback.cc</tspan>
+<tspan x="10" y="1386"> 69.  2017-04-20 18:31:31 +0000     4632 bytes  csrc/woff2/buffer.h</tspan>
+<tspan x="10" y="1402"> 70.  2017-04-20 18:31:31 +0000    12352 bytes  csrc/woff2/font.cc</tspan>
+<tspan x="10" y="1418"> 71.  2017-04-20 18:31:31 +0000     3903 bytes  csrc/woff2/font.h</tspan>
+<tspan x="10" y="1434"> 72.  2017-04-20 18:31:31 +0000    11643 bytes  csrc/woff2/glyph.cc</tspan>
+<tspan x="10" y="1450"> 73.  2017-04-20 18:31:31 +0000     2193 bytes  csrc/woff2/glyph.h</tspan>
+<tspan x="10" y="1466"> 74.  2017-04-20 18:31:31 +0000     9319 bytes  csrc/woff2/normalize.cc</tspan>
+<tspan x="10" y="1482"> 75.  2017-04-20 18:31:31 +0000     1738 bytes  csrc/woff2/normalize.h</tspan>
+<tspan x="10" y="1498"> 76.  2017-04-20 18:31:31 +0000     1185 bytes  csrc/woff2/port.h</tspan>
+<tspan x="10" y="1514"> 77.  2017-04-20 18:31:31 +0000     1024 bytes  csrc/woff2/round.h</tspan>
+<tspan x="10" y="1530"> 78.  2017-04-20 18:31:31 +0000     1754 bytes  csrc/woff2/store_bytes.h</tspan>
+<tspan x="10" y="1546"> 79.  2017-04-20 18:31:31 +0000     2995 bytes  csrc/woff2/table_tags.cc</tspan>
+<tspan x="10" y="1562"> 80.  2017-04-20 18:31:31 +0000     1094 bytes  csrc/woff2/table_tags.h</tspan>
+<tspan x="10" y="1578"> 81.  2017-04-20 18:31:31 +0000     9653 bytes  csrc/woff2/transform.cc</tspan>
+<tspan x="10" y="1594"> 82.  2017-04-20 18:31:31 +0000     1100 bytes  csrc/woff2/transform.h</tspan>
+<tspan x="10" y="1610"> 83.  2017-04-20 18:31:31 +0000     3479 bytes  csrc/woff2/variable_length.cc</tspan>
+<tspan x="10" y="1626"> 84.  2017-04-20 18:31:31 +0000     1248 bytes  csrc/woff2/variable_length.h</tspan>
+<tspan x="10" y="1642"> 85.  2017-04-20 18:31:31 +0000     1438 bytes  csrc/woff2/woff2_common.cc</tspan>
+<tspan x="10" y="1658"> 86.  2017-04-20 18:31:31 +0000     1883 bytes  csrc/woff2/woff2_common.h</tspan>
+<tspan x="10" y="1674"> 87.  2017-04-20 18:31:31 +0000    37531 bytes  csrc/woff2/woff2_dec.cc</tspan>
+<tspan x="10" y="1690"> 88.  2017-04-20 18:31:31 +0000     1279 bytes  csrc/woff2/woff2_dec.h</tspan>
+<tspan x="10" y="1706"> 89.  2017-04-20 18:31:31 +0000    14853 bytes  csrc/woff2/woff2_enc.cc</tspan>
+<tspan x="10" y="1722"> 90.  2017-04-20 18:31:31 +0000     1683 bytes  csrc/woff2/woff2_enc.h</tspan>
+<tspan x="10" y="1738"> 91.  2017-04-20 18:31:31 +0000      868 bytes  jssrc/index.js</tspan>
+<tspan x="10" y="1754"> 92.  2017-04-20 18:31:31 +0000      312 bytes  jssrc/post.js</tspan>
+<tspan x="10" y="1770"> 93.  2017-04-20 18:31:31 +0000  1678520 bytes  jssrc/ttf2woff2.js</tspan>
+<tspan x="10" y="1786"> 94.  2017-04-20 18:31:31 +0000     2105 bytes  package.json</tspan>
+<tspan x="10" y="1802"> 95.  2017-04-20 18:31:31 +0000      149 bytes  src/index.js</tspan>
+<tspan x="10" y="1818"> 96.  2017-04-20 18:31:31 +0000      461 bytes  tests/cli.mocha.js</tspan>
+<tspan x="10" y="1834"> 97.  2017-04-20 18:31:31 +0000     2344 bytes  tests/expected/iconsfont.ttf</tspan>
+<tspan x="10" y="1850"> 98.  2017-04-20 18:31:31 +0000     1072 bytes  tests/expected/iconsfont.woff2</tspan>
+<tspan x="10" y="1866"> 99.  2017-04-20 18:31:31 +0000     1537 bytes  tests/tests.mocha.js</tspan>
 </text>
 </svg>
